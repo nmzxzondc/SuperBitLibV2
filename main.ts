@@ -339,7 +339,7 @@ namespace SuperBitV2 {
     }
     
    
-    //% blockId=SuperBitV2_MotorRun block="Motor|%index|speed(-255~255) %speed"
+    //% blockId=SuperBitV2_MotorRun block="Run motor|%index|at speed(-255~255) %speed"
     //% weight=93
     //% speed.min=-255 speed.max=255
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=4
